@@ -29,3 +29,5 @@ Accuracy = (Number of correctly predicted images / Total number of tested images
 - **Approach**: Transfer Learning with fine-tuning  
 
 Feel free to explore the code and replicate the results! 😊  
+
+![App Screenshot](https://github.com/FaisalShahid03/Brain-Tumor-Detection/blob/main/aies.png)
